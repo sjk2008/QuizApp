@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">QuizApp</string>
+    <string name="is_rose_pink">Is rose pink?</string>
+
+
+    <string name="correct"><b>CORRECTNESS IS</b> \n
+                           <b>%1$d</b> OUT OF 6</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+    <string name="a">is this Ganeshji ?</string>
+    <string name="b">Ram Mandir have:\n \t
+                     <b>Bells</b>\n \t
+                     <b>FLags</b>
+    </string>
+
+
+    <string name="c">Love is:\n \t
+                     <b>Luck!!!</b></string>
+    <string name="d">What do you think is this <b>Gold?</b></string>
+    <string name="e">Radha ji Loves Loyalty?</string>
+    <string name="f">Radha ji Sleeps more?</string>
+
+
+    <string name="true_">True</string>
+    <string name="false_">False</string>
+    <string name="prev_text">Prev</string>
+    <string name="next_text">Next</string>
+    <string name="score">Score:- </string>
+
+</resources>
